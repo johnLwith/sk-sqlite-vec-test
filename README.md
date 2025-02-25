@@ -1,4 +1,6 @@
-## Getting Started
+# SQLite Vector Embedding Demo
+
+This repository demonstrates how to use [sqlite-vec](https://github.com/asg017/sqlite-vec) for vector embeddings in SQLite databases.
 
 Using Sematic Kernel & Ollama & sqlite-vec to implement vector search.
 
@@ -9,9 +11,6 @@ Using Sematic Kernel & Ollama & sqlite-vec to implement vector search.
 | nomic-embed-text | 768 | General purpose text embedding model |
 | mxbai-embed-large | 1024 | Higher dimensional embedding model |
 
-# SQLite Vector Embedding Demo
-
-This repository demonstrates how to use [sqlite-vec](https://github.com/asg017/sqlite-vec) for vector embeddings in SQLite databases.
 
 ## Resources
 
