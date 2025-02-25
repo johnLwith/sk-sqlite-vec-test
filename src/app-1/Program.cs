@@ -1,0 +1,1 @@
+﻿await DefaultNamespace.SqliteVectorTest.Run();
